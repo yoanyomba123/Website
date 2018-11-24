@@ -79,6 +79,7 @@ sass:
   style: :compressed
 plugins: [jekyll-paginate]
 theme: jekyll-theme-type
+remote_theme: benbalter/retlab
 exclude:
   - Gemfile
   - Gemfile.lock
