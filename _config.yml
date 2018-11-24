@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: 
+baseurl: "/Website" 
 url: "https://yoanyomba123.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -28,7 +28,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "yoanyomba123/"
+  github: "yoanyomba123/Website"
   google_plus:
   instagram:
   linkedin: "https://www.linkedin.com/in/yoanyomba"  # Full URL
