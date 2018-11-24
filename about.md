@@ -4,9 +4,27 @@ title: About
 permalink: /about/
 feature-img: "assets/img/sample_feature_img_2.png"
 ---
+### Yoan Yomba 
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+***
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+# Education
+- Anticipated Graduation: June 2019
+- Dual Bachelor & Master Of Science In Computer Engineering
+- Graduate Minor: Computational Engineering
+- Drexel University
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+***
+
+## Skills
+- Programming (4+ Years)
+> Python, Java, C/C++, Javascript, CUDA, Matlab, Bash, Arduino, Slang
+
+- Software
+> Cloud(AWS & Heroku), Git, Bitbucket, Nodejs(Express), VSCode,Vim
+
+- Operating Systems
+> Linux, MacOS, Windows
+
+*** 
+
