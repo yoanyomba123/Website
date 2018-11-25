@@ -16,7 +16,7 @@ feature-img: "assets/img/sample_feature_img_2.png"
 - Graphical & Probabilitic Models
 
 ## Research
-Working on a Master's Thesis under the advisorship of [Dr. Nagarajan Kandasamy](https://www.google.com), [Dr. James Shackleford](https://www.google.com), And [Dr. Gregory Sharpe](https://www.google.com) pertaining to the applications of BSplines in the Viscous Fluid Model for more efficient and precise numerical solutions to the driving Navier Stockes Partial Differential Equation. Also researching GPU techniques for the obtainance of drastic computational speedups.
+Working on a Master's Thesis under the advisorship of [Dr. Nagarajan Kandasamy](https://drexel.edu/engineering/about/faculty-staff/K/kandasamy-nagarajan/), [Dr. James Shackleford](https://drexel.edu/engineering/about/faculty-staff/S/shackleford-james/), And [Dr. Gregory Sharpe](https://gray.mgh.harvard.edu/people-directory/translational/75-gregory-c-sharp-phd) pertaining to the applications of BSplines in the Viscous Fluid Model for more efficient and precise numerical solutions to the driving Navier Stockes Partial Differential Equation. Also researching GPU techniques for the obtainance of drastic computational speedups.
 
 - Building a PDE-solver in C++ to solve the Navier-Stockes convection-diffusion PDE for the quantification of velocity vector fields 
 - Devising various discretization techniques to efficiently solve PDE’s numerically
